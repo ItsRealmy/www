@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /
+
+RewriteRule ^([^/]+)$ /$1.php
