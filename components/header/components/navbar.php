@@ -19,7 +19,7 @@
             Team
         </a>
         <a href="/about">
-            Anouncements
+            Announcements
         </a>
         <a href="/about">
             About
